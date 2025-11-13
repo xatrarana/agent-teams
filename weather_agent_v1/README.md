@@ -1,0 +1,3 @@
+**Best Practice**: Provide clear and specific instruction prompts. The more detailed the instructions, the better the LLM can understand its role and how to use its tools effectively. Be explicit about error handling if needed.
+
+**Best Practice**: Choose descriptive `name` and `description` values. These are used internally by **ADK** and are vital for features like automatic delegation (covered later).
